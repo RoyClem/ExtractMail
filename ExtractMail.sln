@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.421
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExtractMail", "ExtractMail\ExtractMail.csproj", "{7FA28E9E-B018-46B9-B5E2-C62548132429}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7FA28E9E-B018-46B9-B5E2-C62548132429}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7FA28E9E-B018-46B9-B5E2-C62548132429}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7FA28E9E-B018-46B9-B5E2-C62548132429}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7FA28E9E-B018-46B9-B5E2-C62548132429}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5077B074-3B55-41B2-BC22-F0E710FEF0B1}
+	EndGlobalSection
+EndGlobal
