@@ -17,6 +17,7 @@ namespace ExtractMail
 
         public void ParseMail(string folder)
         {
+			// added this dummy comment
             var outlookApplication = new Application();
             var outlookNamespace = outlookApplication.GetNamespace("MAPI");
 
